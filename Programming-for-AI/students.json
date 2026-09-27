@@ -1,0 +1,26 @@
+[
+  {
+    "name":"Ali",
+    "study_hours":3,
+    "attendance":75,
+    "exam_score":65
+  },
+  {
+    "name":"Sara",
+    "study_hours":5,
+    "attendance":90,
+    "exam_score":88
+  },
+  {
+    "name":"John",
+    "study_hours":2,
+    "attendance":70,
+    "exam_score":58
+  },
+  {
+    "name":"Ayesha",
+    "study_hours":6,
+    "attendance":95,
+    "exam_score":94
+  }
+]
