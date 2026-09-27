@@ -1,0 +1,17 @@
+[
+                    {
+                                        "brand":"toyota",
+                                        "model":"grende",
+                                        "make":2017
+                    },
+                    {
+                                        "brand":"honda",
+                                        "model":"civic",
+                                        "make":2010
+                    },
+                    {
+                                        "brand":"suzuki",
+                                        "model":"swift",
+                                        "make":2015
+                    }
+]
