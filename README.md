@@ -3,3 +3,4 @@ many Algorithm solved and implemented by hand in raw python that fully display i
 currently done ones are
 linear (binary,multiclass) regression 
 logistics regression
+other techniques tooo
